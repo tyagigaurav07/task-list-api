@@ -1,0 +1,112 @@
+[
+    {
+        "task_id": 1,
+        "title": "Follow up with customer",
+        "task": "Call ABC Industries regarding pending payment",
+        "created_by": "Amit Sharma",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-16",
+        "completed_on": null,
+        "status": "Pending",
+        "assigned_to": "Rahul Kumar"
+    },
+    {
+        "task_id": 2,
+        "title": "Handle new leads from website",
+        "task": "Distribute and follow up on leads received this week",
+        "created_by": "Amit Sharma",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-20",
+        "completed_on": null,
+        "status": "Pending",
+        "assigned_to": "Sales Team"
+    },
+    {
+        "task_id": 3,
+        "title": "Prepare monthly invoice report",
+        "task": "Generate and send invoice summary for September",
+        "created_by": "Priya Verma",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-10",
+        "completed_on": "2026-09-09T17:30:00",
+        "status": "Completed",
+        "assigned_to": "Sneha Reddy"
+    },
+    {
+        "task_id": 4,
+        "title": "Resolve customer support tickets",
+        "task": "Clear pending tickets in the queue older than 2 days",
+        "created_by": "Rahul Kumar",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-22",
+        "completed_on": null,
+        "status": "In Progress",
+        "assigned_to": "Support Team"
+    },
+    {
+        "task_id": 5,
+        "title": "Update inventory stock count",
+        "task": "Reconcile physical stock with system records for Warehouse A",
+        "created_by": "Vikram Singh",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-25",
+        "completed_on": null,
+        "status": "Pending",
+        "assigned_to": "Priya Verma"
+    },
+    {
+        "task_id": 6,
+        "title": "Quarterly sales review",
+        "task": "Compile Q3 sales numbers and prepare presentation",
+        "created_by": "Amit Sharma",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-05",
+        "completed_on": "2026-09-05T16:00:00",
+        "status": "Completed",
+        "assigned_to": "Sales Team"
+    },
+    {
+        "task_id": 7,
+        "title": "Vendor onboarding - XYZ Traders",
+        "task": "Complete vendor documentation and approval",
+        "created_by": "Priya Verma",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-12",
+        "completed_on": null,
+        "status": "Cancelled",
+        "assigned_to": "Vikram Singh"
+    },
+    {
+        "task_id": 8,
+        "title": "Prepare HR onboarding kit",
+        "task": "New joiner documentation for next week intake",
+        "created_by": "Sneha Reddy",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-24",
+        "completed_on": null,
+        "status": "Pending",
+        "assigned_to": "Rahul Kumar"
+    },
+    {
+        "task_id": 9,
+        "title": "Client escalation - Delta Corp",
+        "task": "Coordinate response for escalated billing complaint",
+        "created_by": "Rahul Kumar",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-21",
+        "completed_on": null,
+        "status": "In Progress",
+        "assigned_to": "Support Team"
+    },
+    {
+        "task_id": 10,
+        "title": "Purchase order approval - Office Supplies",
+        "task": "Review and approve PO #4521",
+        "created_by": "Vikram Singh",
+        "created_on": "2026-09-21T12:47:11",
+        "due_date": "2026-09-08",
+        "completed_on": "2026-09-08T11:15:00",
+        "status": "Completed",
+        "assigned_to": "Amit Sharma"
+    }
+]
