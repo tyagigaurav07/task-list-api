@@ -30,8 +30,6 @@ struct TaskResponse {
 // ---------------------------------------------------------------
 // This mirrors exactly what the SQL query below selects.
 // sqlx::FromRow maps each database column to a struct field
-// by name, so this has to line up with the query's column
-// aliases.
 // ---------------------------------------------------------------
 #[derive(sqlx::FromRow)]
 struct TaskRow {
